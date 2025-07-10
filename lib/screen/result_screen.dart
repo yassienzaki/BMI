@@ -29,6 +29,7 @@ class ResultScreen extends StatelessWidget {
       backgroundColor: AppColors.backgroundColor,
       appBar:CustomAppBar(),
       body: Column(
+
         children: [
           SizedBox(height: 20),
           Text(
